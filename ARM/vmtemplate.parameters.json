@@ -1,0 +1,14 @@
+{
+	"$schema": "http://schema.management.azure.com/schemas/2014-04-01-preview/deploymentTemplate.json",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+
+		"adminUsername": {
+			"Value": "awin",
+		},
+
+        "sshKeyData": {
+            "value": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAAAgQCUKh2bJ/ahQUUAUFad50TqhPWkv7E3SibvkBIf5GhVRpfK5jdRcrZop63oqWz2sJY5ijX71i5oIey5p6EfgLM7WzjHNoVYwzTjGPfhuE45+LDUR99R8wwQfoLdnCXLPIZ6Kk+6szaysLeDdp0rncrWg7jESdzzEjfEPFHv0SD31w== ashwin.a.pandey@DDC5-L-4230PY7"
+
+    }
+}
